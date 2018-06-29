@@ -1,0 +1,15 @@
+f1_score
+[ 0.62817148  0.52905812  0.22346369]
+precision_score
+[ 0.4494382   0.50139665  0.67692308]
+recall_score
+[ 0.14869888  0.84074941  0.43421053]
+
+             precision    recall  f1-score   support
+
+   Nagative       0.45      0.15      0.22       269
+    Neutral       0.50      0.84      0.63       427
+   Positive       0.68      0.43      0.53       304
+
+avg / total       0.54      0.53      0.49      1000
+
