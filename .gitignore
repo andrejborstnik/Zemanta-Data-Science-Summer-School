@@ -1,0 +1,12 @@
+.idea
+*.iml
+out
+gen
+.idea/
+data/
+data_5_june
+.ipynb_checkpoints/
+ml-team-competition/
+images/
+Sentiment Analysis Workshop.ipynb
+Sentiment Analysis Workshop.slides.html
